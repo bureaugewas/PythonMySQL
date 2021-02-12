@@ -1,4 +1,4 @@
-# PythonMySQL
+# Dynamic MySQL query generator for Python
 Send queries to (local) MySQL server. Includes following functions: 
 
 new_entry.py --> adds new input to table.
